@@ -37,9 +37,9 @@
 
     <div class="menu">
         <h1>Menu Utama</h1>
-        <a href="mahasiswa/mahasiswa.php?page=mahasiswa">Data Mahasiswa</a>
-        <a href="matkul/matkul.php?page=matkul">Data Mata Kuliah</a>
-        <a href="dosen/dosen.php?page=dosen">Data Dosen</a>
+        <a href="mahasiswa.php?page=mahasiswa">Data Mahasiswa</a>
+        <a href="matkul.php?page=matkul">Data Mata Kuliah</a>
+        <a href="dosen.php?page=dosen">Data Dosen</a>
     </div>
 
 </body>
